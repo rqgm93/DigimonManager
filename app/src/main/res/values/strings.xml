@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigimonManager</string>
+    <string name="add_digimon">Añadir digimon</string>
+    <string name="digimon_type">Tipo (Acuático, Ave, etc.)</string>
+    <string name="not">Notificación</string>
+    <string name="home">Home</string>
+</resources>
